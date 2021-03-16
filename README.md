@@ -1,4 +1,4 @@
-# Published on Vercel @ https://react-tic-tac-toe-blush.vercel.app/
+# Published on/with Vercel @ https://react-tic-tac-toe-blush.vercel.app/
 
 
 
